@@ -102,7 +102,7 @@ This project explores trends and patterns in crime using a generated dataset of 
 ## 💼 Additional Notes
 
 This EDA project was inspired by the need to visualize and understand patterns in crime data for potential integration with surveillance systems. For real-time weapon detection and AI-based tracking, check out this separate project:
-[🔗 Real-time Enemy Detection (YOLO + Arduino)](https://github.com/r4kno/The_God-s_Eye)
+[🔗 Real-time Enemy Detection](https://github.com/r4kno/The_God-s_Eye)
 
 ---
 ## 📬 Contact
